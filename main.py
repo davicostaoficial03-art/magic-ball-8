@@ -105,4 +105,3 @@ def magic_ball():
 # Sem esta chamada, a função seria definida, mas seu conteúdo não seria
 # executado automaticamente.
 magic_ball()
-```
