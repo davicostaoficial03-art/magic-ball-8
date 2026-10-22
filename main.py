@@ -1,4 +1,3 @@
-```python
 # Importa o módulo random, utilizado para selecionar uma resposta aleatória.
 import random
 
